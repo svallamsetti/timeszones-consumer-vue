@@ -11,7 +11,7 @@ Once docker and docker compose are installed follow the below steps to spin this
 **Steps:**
 
 1. clone this repo `git clone https://github.com/svallamsetti/timeszones-consumer-vue.git`
-2. `cd timezones-consumer-vue`
+2. `cd timeszones-consumer-vue`
 3. `docker-compose up`
 > This step will take some time to download the image used in Dockerfile. The Dockerfile will take care of installing all the required dependencies.
 4. The app can be accessed by visiting http://127.0.0.1:8081
