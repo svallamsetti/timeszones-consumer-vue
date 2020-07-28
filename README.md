@@ -1,5 +1,5 @@
 # Timezones-consumer Vue App
-> This Vue App consumes timezones API written in Flask [timeZonesAPI](https://github.com/svallamsetti/timezones-api)
+> This Vue App consumes timezones API written in Flask. Before installing this project complete the instructions listed at the README file of [timeZonesAPI](https://github.com/svallamsetti/timezones-api) project.
 
 # Requirements
    * [Docker](https://docs.docker.com/get-docker/)
